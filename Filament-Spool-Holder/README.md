@@ -43,7 +43,7 @@ The parts are arranged on plates in what I think is the best orientation for pri
 
 The seam in the spindle will need to be smoothed to eliminate the bump.
 
-The filament guide does not have the threads required to install the PTFE tubing holder with M10 threads (actually it is a pipe thread with a diameter close to M10).
+The filament guide does not have the threads required to install the PTFE tubing holder with M6 threads (actually it is a pipe thread with a diameter close to M10).
 
 The hole next to the hole for feeding filament is a holder for the filament end of the second spool. It still needs some work to find the exact dimensions and taper to allow it to work 100% of the time.
 
