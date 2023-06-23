@@ -47,3 +47,4 @@ The filament guide does not have the threads required to install the PTFE tubing
 
 The hole next to the hole for feeding filament is a holder for the filament end of the second spool. It still needs some work to find the exact dimensions and taper to allow it to work 100% of the time.
 
+I used this splitter https://www.printables.com/model/471428-y-splitter-for-the-bambu-lab-x1c-ams.
